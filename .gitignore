@@ -1,0 +1,6 @@
+# 체크포인트
+.ipynb_checkpoints/
+.virtual_documents/
+data/.ipynb_checkpoints/
+# 환경 변수
+.env

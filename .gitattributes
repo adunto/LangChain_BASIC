@@ -1,0 +1,2 @@
+*.ipynb filter=nbstrinput
+*.ipynb filter=strip.notebook-output
