@@ -1,4 +1,4 @@
-### LangChain 개인 공부
+# LangChain 개인 공부
 
-# OpenAI API
-# LangChain의 ChatOpenAI
+### OpenAI API
+### LangChain의 ChatOpenAI
