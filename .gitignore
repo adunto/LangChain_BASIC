@@ -7,3 +7,13 @@ data/.ipynb_checkpoints/
 
 # CSV
 *.csv
+
+# FAISS
+*.faiss
+*.pkl
+faiss_index
+
+*.txt
+*.pdf
+
+db/
