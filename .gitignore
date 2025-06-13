@@ -15,5 +15,6 @@ faiss_index
 
 *.txt
 *.pdf
+*.docx
 
 db/
